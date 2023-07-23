@@ -1,79 +1,8 @@
 ```
-CYPRUS INTERNATIONAL UNIVERSITY
-FACULTY OF ENGINEERING
-```
-DEPARTMENT OF ELECTRICAL & ELECTRONICS ENGINEERING
-
-```
-DEPARTMENT OF COMPUTER ENGINEERING
-DEPARTMENT OF MECHATRONICS ENGINEERING
-```
-```
 IMPLIMENTATION OF FIRST-PERSON VIEW (FPV)
 RACING DRONE USING ARDUINO
 ```
-```
-By
-Ali DOGAN (CMPE)
-Laure KAMWENYI (EELE)
-Mujtaba ABDALLA (CMPE)
-Mohamed IBRAHIM (MCTE)
-Muhammad MUAWAZ (MCTE)
-```
-```
-February, 2023
-Nicosia, NORTH CYPRUS
-```
 
-```
-CYPRUS INTERNATIONAL UNIVERSITY
-FACULTY OF ENGINEERING
-```
-**DEPARTMENT OF ELECTRICAL & ELECTRONICS ENGINEERING**
-
-```
-DEPARTMENT COMPUTER ENGINEERING
-DEPARTMENT OF MECHATRONICS ENGINEERING
-```
-```
-IMPLIMENTATION OF FIRST-PERSON VIEW (FPV)
-RACING DRONE USING ARDUINO
-```
-```
-By
-Ali DOGAN (CMPE)
-Laure KAMWENYI (EELE)
-Mujtaba ABDALLA (CMPE)
-Mohamed IBRAHIM (MCTE)
-Muhammad MUAWAZ (MCTE)
-```
-```
-February, 2023
-Nicosia, NORTH CYPRUS
-```
-
-```
-IMPLIMENTATION OF FIRST-PERSON VIEW (FPV)
-RACING DRONE USING ARDUINO
-```
-```
-By
-Ali DOGAN
-Laure KAMWENYI
-Mujtaba ABDALLA
-Mohamed IBRAHIM
-Muhammad MUAWAZ
-```
-DATE OF APPROVAL:
-
-APPROVED BY:
-
-Asst. Prof. Dr. Öykü AKAYDIN
-
-
-```
-iii
-```
 **ABSTRACT**
 First-person view (FPV) racing drones are unmanned aerial vehicles (UAVs) designed
 for high-speed racing and acrobatic flight. They have become a popular hobby and competitive
@@ -106,20 +35,9 @@ some safety and legal challenges, advances in technology and regulations are hel
 that the sport continues to grow and evolve while ensuring the safety of participants and the
 public.
 
-
-```
-iv
-```
-**ÖZET**
-
-
-## v
-
 **TABLE OF CONTENTS**
 
 ABSTRACT ................................................................................................................ iii
-
-
 
 
 viii
